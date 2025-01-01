@@ -1,1 +1,1 @@
-This is a basic Python application made in VScode made as a learning project.
+This is a basic Python application I made as a learning project.
